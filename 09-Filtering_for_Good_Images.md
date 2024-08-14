@@ -3,14 +3,11 @@
 
 # Table of Contents
 
-[What Makes an Image Good Quality?
-[1](#what-makes-an-image-good-quality)](#what-makes-an-image-good-quality)
+[What Makes an Image Good Quality?](#what-makes-an-image-good-quality)
 
-[Setting Up your Project Folder
-[2](#setting-up-your-project-folder)](#setting-up-your-project-folder)
+[Setting Up your Project Folder](#setting-up-your-project-folder)
 
-[Using the Filtering Code
-[5](#using-the-filtering-code)](#using-the-filtering-code)
+[Using the Filtering Code](#using-the-filtering-code)
 
 # What Makes an Image Good Quality?
 
