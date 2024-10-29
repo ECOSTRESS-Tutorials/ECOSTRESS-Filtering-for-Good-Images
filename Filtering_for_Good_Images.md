@@ -38,7 +38,7 @@ quality metrics.
     need for this code. Find your request on the **AppEEARS** website
     and go to the **download** page.
 
-<img src="09-Filtering_for_Good_Images_images/media/image1.png"
+<img src="Filtering_for_Good_Images_images/media/image1.png"
 style="width:6.5in;height:0.70694in" />
 
 **Tip**: If you do not know how to make a request on the AppEEARS
@@ -47,7 +47,7 @@ have **QC** files requested in addition to your ECOSTRESS product files.
 Oftentimes, QC files are **automatically** included in your requested
 files because they are important for good research.
 
-<img src="09-Filtering_for_Good_Images_images/media/image26.png"
+<img src="Filtering_for_Good_Images_images/media/image26.png"
 style="width:6.06346in;height:0.66603in" />
 
 However, to **ensure** they will be present in your requested files on
@@ -55,7 +55,7 @@ AppEEARS, you can add them as a requested layer. Whatever product you
 are downloading, scroll through the options and look for **QC**, then
 press the **plus** to add it to your requested layers.
 
-<img src="09-Filtering_for_Good_Images_images/media/image30.png"
+<img src="Filtering_for_Good_Images_images/media/image30.png"
 style="width:2.83098in;height:1.43526in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
@@ -64,7 +64,7 @@ alt="Graphical user interface, text, application Description automatically gener
 
 **Example:**
 
-<img src="09-Filtering_for_Good_Images_images/media/image4.png"
+<img src="Filtering_for_Good_Images_images/media/image4.png"
 style="width:6.5in;height:2.20486in"
 alt="Graphical user interface, text, application, email Description automatically generated" />
 
@@ -75,7 +75,7 @@ either **True** or **False** for each row/file. **True** means that the
 image has been georeferenced. **False** means that it has not. We only
 want to use images labeled **True**.
 
-<img src="09-Filtering_for_Good_Images_images/media/image50.png"
+<img src="Filtering_for_Good_Images_images/media/image50.png"
 style="width:5.92756in;height:0.98287in" />
 
 3.  Then, **scroll down** to the main files section. Click on the empty
@@ -85,7 +85,7 @@ style="width:5.92756in;height:0.98287in" />
     dropdown on the right and select **Download Files**. Wait for your
     files to finish downloading.
 
-<img src="09-Filtering_for_Good_Images_images/media/image6.png"
+<img src="Filtering_for_Good_Images_images/media/image6.png"
 style="width:5.36602in;height:1.31858in"
 alt="Graphical user interface, application Description automatically generated" />
 
@@ -96,7 +96,7 @@ alt="Graphical user interface, application Description automatically generated" 
     new folder so that you know it is the **input folder** for your
     filtering code.
 
-<img src="09-Filtering_for_Good_Images_images/media/image7.png"
+<img src="Filtering_for_Good_Images_images/media/image7.png"
 style="width:4.61987in;height:2.54636in"
 alt="Graphical user interface Description automatically generated with low confidence" />
 
@@ -104,7 +104,7 @@ alt="Graphical user interface Description automatically generated with low confi
     Then, **right click** and select **New Folder**. Name the new folder
     so that you know it is for your filtering code **outputs**.
 
-<img src="09-Filtering_for_Good_Images_images/media/image8.png"
+<img src="Filtering_for_Good_Images_images/media/image8.png"
 style="width:3.3891in;height:1.86799in"
 alt="Graphical user interface, application Description automatically generated" />
 
@@ -113,7 +113,7 @@ alt="Graphical user interface, application Description automatically generated" 
     it accordingly. Move the **inputs** and **outputs** folders into the
     project folder.
 
-<img src="09-Filtering_for_Good_Images_images/media/image9.png"
+<img src="Filtering_for_Good_Images_images/media/image9.png"
 style="width:3.58092in;height:1.97372in"
 alt="Graphical user interface, application Description automatically generated" />
 
@@ -122,7 +122,7 @@ alt="Graphical user interface, application Description automatically generated" 
     and download the **Filtering_for_good_images** code. Move this code
     into the **project folder**.
 
-<img src="09-Filtering_for_Good_Images_images/media/image10.png"
+<img src="Filtering_for_Good_Images_images/media/image10.png"
 style="width:3.69594in;height:2.03909in"
 alt="Graphical user interface, application, Word Description automatically generated" />
 
@@ -135,9 +135,9 @@ Good Images code!
     to get connected to the main **project folder** that contains the
     input folder, output folder, and the Filtering_for_good_images code.
 
-| <img src="09-Filtering_for_Good_Images_images/media/image11.png"
+| <img src="Filtering_for_Good_Images_images/media/image11.png"
 style="width:1.90733in;height:1.76415in"
-alt="Graphical user interface, text, application Description automatically generated" /> | <img src="09-Filtering_for_Good_Images_images/media/image12.png"
+alt="Graphical user interface, text, application Description automatically generated" /> | <img src="Filtering_for_Good_Images_images/media/image12.png"
 style="width:1.87258in;height:1.72756in"
 alt="Text Description automatically generated" /> |
 |----|----|
@@ -145,7 +145,7 @@ alt="Text Description automatically generated" /> |
 2.  In the **EXPLORER** tab, find the **Filtering_for_good_images** code
     and **click** on it to open it.
 
-> <img src="09-Filtering_for_Good_Images_images/media/image14.png"
+> <img src="Filtering_for_Good_Images_images/media/image14.png"
 > style="width:5.42497in;height:2.89679in"
 > alt="Graphical user interface, text, application Description automatically generated" />
 
@@ -158,7 +158,7 @@ because it will guide you to which parts you may want to change!
 
 **Examples** of comments (**green text following the \#):**
 
-<img src="09-Filtering_for_Good_Images_images/media/image130.png"
+<img src="Filtering_for_Good_Images_images/media/image130.png"
 style="width:6.03526in;height:0.6656in" />
 
 3.  Find the section of the code titled **Set the Directories**. Find
@@ -166,7 +166,7 @@ style="width:6.03526in;height:0.6656in" />
     **"Replace_this_text_with_folder_path"** to the path of the main
     folder where your ECOSTRESS files are stored.
 
-<img src="09-Filtering_for_Good_Images_images/media/image15.png"
+<img src="Filtering_for_Good_Images_images/media/image15.png"
 style="width:6.16603in;height:1.01318in"
 alt="Text Description automatically generated" />
 
@@ -176,7 +176,7 @@ alt="Text Description automatically generated" />
     Path**. Now you can paste the path into your code. Make sure it is
     still **wrapped in quotes** and has **r** outside the first quote.
 
-<img src="09-Filtering_for_Good_Images_images/media/image16.png"
+<img src="Filtering_for_Good_Images_images/media/image16.png"
 style="width:1.93526in;height:1.99768in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
@@ -186,13 +186,13 @@ alt="Graphical user interface, text, application Description automatically gener
     it is still **wrapped in quotes** and has **r** outside the first
     quote.
 
-<img src="09-Filtering_for_Good_Images_images/media/image17.png"
+<img src="Filtering_for_Good_Images_images/media/image17.png"
 style="width:5.72009in;height:0.74251in"
 alt="Text Description automatically generated" />
 
 > **Example Directory Set-up:**
 >
-> <img src="09-Filtering_for_Good_Images_images/media/image18.png"
+> <img src="Filtering_for_Good_Images_images/media/image18.png"
 > style="width:5.5in;height:1.03889in"
 > alt="Text Description automatically generated" />
 
@@ -202,7 +202,7 @@ alt="Text Description automatically generated" />
     into the box with the library importing code and press
     **Shift+Return** to run it.
 
-<img src="09-Filtering_for_Good_Images_images/media/image19.png"
+<img src="Filtering_for_Good_Images_images/media/image19.png"
 style="width:5.75833in;height:1.30239in"
 alt="Shape, rectangle Description automatically generated" />
 
@@ -210,14 +210,14 @@ alt="Shape, rectangle Description automatically generated" />
     **select a kernel** to run your code with. Click on **Python
     Environments …**
 
-<img src="09-Filtering_for_Good_Images_images/media/image20.png"
+<img src="Filtering_for_Good_Images_images/media/image20.png"
 style="width:5.24295in;height:1.00714in"
 alt="Graphical user interface Description automatically generated with medium confidence" />
 
 7.  Select the **ECOSTRESS** environment that you created, or another
     one if you have a different one you want to use.
 
-<img src="09-Filtering_for_Good_Images_images/media/image21.png"
+<img src="Filtering_for_Good_Images_images/media/image21.png"
 style="width:4.41987in;height:1.34863in"
 alt="Graphical user interface, text, application, email Description automatically generated" />
 
@@ -228,7 +228,7 @@ alt="Graphical user interface, text, application, email Description automaticall
     counting up** in the bottom left of the cell. You will know it is
     done when a **green check mark** appears.
 
-<img src="09-Filtering_for_Good_Images_images/media/image22.png"
+<img src="Filtering_for_Good_Images_images/media/image22.png"
 style="width:1.83376in;height:1.17201in" />
 
 9.  Continue this process of running each block of code, in order from
@@ -243,7 +243,7 @@ style="width:1.83376in;height:1.17201in" />
 **Example of if you forgot to include the statistics CSV in the input
 directory:**
 
-<img src="09-Filtering_for_Good_Images_images/media/image23.png"
+<img src="Filtering_for_Good_Images_images/media/image23.png"
 style="width:4.21987in;height:1.05362in"
 alt="Text Description automatically generated" />
 
@@ -252,7 +252,7 @@ alt="Text Description automatically generated" />
     them. If one or more of these sub-folders are not present, it just
     means that none of the images you inputted fell into that category.
 
-<img src="09-Filtering_for_Good_Images_images/media/image24.png"
+<img src="Filtering_for_Good_Images_images/media/image24.png"
 style="width:3.71987in;height:1.99585in"
 alt="Graphical user interface, application Description automatically generated" />
 
